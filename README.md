@@ -1,1 +1,1 @@
-# jusadaydreamer.github.io
+# justadaydreamer.github.io
