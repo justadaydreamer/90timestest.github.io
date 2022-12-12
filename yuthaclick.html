@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<script>
+    var yuttcount = 0;
+</script>
+<html>
+<head>
+    <title>Tongme Clickers</title>
+<style>
+    body{
+        background-image : url('ruep/bg_coo.png');
+    }
+    h1{
+        text-align: center;
+        color: white;
+    }
+    p{
+        text-align: center;
+        font-size: 30px;
+        color: white;
+    }
+    a{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 35%;
+    }
+    small{
+        display: block;
+        text-align: center;
+        color: white;
+    }
+    .footer{
+        text-align: center;
+        font-size: 20px;
+        color: white;
+    }
+</style>
+<body>
+<h1>Tongmee Clickers</h2>
+<p>Score : <span id = 'write'>0</span></p>
+<a = href=# onclick = 'add()'><img src = 'ruep/me.png' alt = 'อาจารย์มี' width = "500" height = "450"></a>
+<script> 
+    function add(){
+        yuttcount = yuttcount+1;
+        document.getElementById('write').innerHTML= yuttcount;
+        }
+</script>
+<br>
+<small>Click Here!</small>
+</br>
+<br><br><br><br><br><br>
+<div class = 'footer'>
+<small>©2022 Tongmee Clicker, All right reserved</small>
+</div>
+</body>
+</html>
+
