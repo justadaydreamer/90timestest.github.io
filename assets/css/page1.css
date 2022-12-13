@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(19, 255, 192);
+}
+
+h1 {
+    font-size: 50px;
+    font-style: italic;
+    color: darkcyan;
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+.ref {
+    text-align: right;
+}
+
+a:hover {
+    color: darkcyan;
+}
