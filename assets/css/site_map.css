@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: rgb(19, 255, 192);
+}
+
+p {
+    font-size: 20px;
+    color: darkblue;
+}
+
+a:hover {
+    color: black;
+}
+
+.left {
+    text-align: left;
+    color: darkblue;
+}
+
+.right {
+    text-align: right;
+    color: darkblue;
+}
