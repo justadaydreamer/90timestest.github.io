@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(19, 255, 192);
+}
+
+h1 {
+    text-align: center;
+    color: darkcyan;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    text-decoration: double;
+    font-size: 20px;
+}
+
+.right {
+    display: block;
+    text-align: center;
+    color: darkcyan;
+}
+
+a:hover {
+    color: black;
+}
+
+small {
+    display: block;
+    text-align: center;
+    color: darkcyan;
+}
